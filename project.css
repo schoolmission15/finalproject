@@ -1,0 +1,77 @@
+body {
+	  font-size: 25px;
+      background-color: #AF3D3D;
+      text-align-last: center;
+
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: "Verdana";
+    font-size: 30px;
+    border-style: solid;
+    border-color: black;
+    background-color: black;
+
+}
+
+p {
+    font-family: "Arial";
+    font-size: 25px;
+    text-align: center;
+    color:white;
+    margin-left: auto;
+}
+
+img {
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+
+
+
+}
+
+input {
+	   display: block;
+       margin-left: auto;
+       margin-right: auto;
+       border-radius: 5px;
+       background-color: white;
+       border-style: solid;
+       border-color: black;
+}
+
+.mods
+{
+float:right;
+    margin-top: -500px;
+    margin-right: 10px
+    bottom: 50px;
+    border-style: groove;
+}
+
+.eyes
+{
+    margin-top: -500px;
+    margin-right: 10px
+    bottom: 50px;
+    float:left;
+    border-style: groove;
+}
+
+.subm
+{
+    margin-right: 10px;
+}
+
+.aven
+{
+    width: 100%;
+    border-style: groove;
+}
+#container
+{
+    width: 100%;
+}
